@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubakash/Webpack.git"
+  },
+  "author": "Akash Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubakash/Webpack/issues"
+  },
+  "homepage": "https://github.com/githubakash/Webpack#readme",
+  "devDependencies": {
+    "webpack": "^2.1.0-beta.22",
+    "webpack-dev-server": "^2.1.0-beta.10"
+  },
+  "dependencies": {
+    "jshint": "^2.9.4",
+    "jshint-loader": "^0.8.3"
+  }
+}
